@@ -1,5 +1,6 @@
 {
     "name": "lemoni/dir",
+    "version": "1.0.0",
     "description": "A PHP package for managing and listing files and directories within a specified path.",
     "type": "project",
     "license": "MIT",
